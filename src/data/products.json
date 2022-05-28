@@ -1,0 +1,14 @@
+[
+	{ "name": "Mountain Dew",
+		"quantity": 2,
+		"price": 1.23
+	},	
+	{ "name": "Desperados",
+		"quantity": 1,
+		"price": 3.98
+	},
+	{ "name": "Jack Daniels",
+		"quantity": 1,
+		"price": 12.91
+	}
+]
